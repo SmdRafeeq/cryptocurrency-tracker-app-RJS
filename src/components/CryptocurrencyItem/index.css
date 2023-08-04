@@ -1,0 +1,36 @@
+.cryptocurrency-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-title-con {
+  display: flex;
+  align-items: center;
+}
+
+.currency-logo {
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+}
+
+.currency-name {
+  font-size: 12px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.usd-euro-con {
+  display: flex;
+  align-items: center;
+}
+
+.currency-value {
+  font-size: 12px;
+  font-weight: 500;
+  text-align: right;
+  color: #ffffff;
+  width: 52px;
+  margin-right: 8px;
+}
